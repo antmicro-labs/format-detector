@@ -1,4 +1,4 @@
-# Image Resolution and Format Detection
+# Image Resolution and Format Detector
 
 This script reads in a binary file and tries to determine the best resolution and format for the image. It uses edge detection and object detection to determine the best resolution and format.
 
